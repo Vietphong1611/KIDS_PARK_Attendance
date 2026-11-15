@@ -23,3 +23,13 @@
 1. Cài đặt các thư viện cần thiết:
    ```bash
    pip install -r requirements.txt
+Import file kids_park_db.sql vào MySQL và cập nhật thông tin kết nối trong file config.py.
+
+Khởi chạy ứng dụng:
+
+Bash
+python -m streamlit run app_streamlit.py
+🔐 Tài khoản trải nghiệm mặc định
+Quản lý: Mã QL01 | Mật khẩu 123456
+
+Nhân viên: Mã NV02 | Mật khẩu 123456
